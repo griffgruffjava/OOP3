@@ -1,7 +1,7 @@
 
 public class BadGuy 
 {
-	
+	// github test
 	private String name;
 	private int strength;
 	private int ammo;
